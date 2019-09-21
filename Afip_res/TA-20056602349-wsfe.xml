@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<loginTicketResponse version="1.0">
+    <header>
+        <source>CN=wsaahomo, O=AFIP, C=AR, SERIALNUMBER=CUIT 33693450239</source>
+        <destination>SERIALNUMBER=CUIT 20056602349, CN=bvergara</destination>
+        <uniqueId>1397853319</uniqueId>
+        <generationTime>2019-09-21T10:17:18.347-03:00</generationTime>
+        <expirationTime>2019-09-21T22:17:18.347-03:00</expirationTime>
+    </header>
+    <credentials>
+        <token>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/Pgo8c3NvIHZlcnNpb249IjIuMCI+CiAgICA8aWQgc3JjPSJDTj13c2FhaG9tbywgTz1BRklQLCBDPUFSLCBTRVJJQUxOVU1CRVI9Q1VJVCAzMzY5MzQ1MDIzOSIgZHN0PSJDTj13c2ZlLCBPPUFGSVAsIEM9QVIiIHVuaXF1ZV9pZD0iNDI3NzU2Njk1MCIgZ2VuX3RpbWU9IjE1NjkwNzE3NzgiIGV4cF90aW1lPSIxNTY5MTE1MDM4Ii8+CiAgICA8b3BlcmF0aW9uIHR5cGU9ImxvZ2luIiB2YWx1ZT0iZ3JhbnRlZCI+CiAgICAgICAgPGxvZ2luIGVudGl0eT0iMzM2OTM0NTAyMzkiIHNlcnZpY2U9IndzZmUiIHVpZD0iU0VSSUFMTlVNQkVSPUNVSVQgMjAwNTY2MDIzNDksIENOPWJ2ZXJnYXJhIiBhdXRobWV0aG9kPSJjbXMiIHJlZ21ldGhvZD0iMjIiPgogICAgICAgICAgICA8cmVsYXRpb25zPgogICAgICAgICAgICAgICAgPHJlbGF0aW9uIGtleT0iMjAwNTY2MDIzNDkiIHJlbHR5cGU9IjQiLz4KICAgICAgICAgICAgPC9yZWxhdGlvbnM+CiAgICAgICAgPC9sb2dpbj4KICAgIDwvb3BlcmF0aW9uPgo8L3Nzbz4K</token>
+        <sign>lAbNcm9JWgRAxRIs9GU15JtqL+pYZR7T1O3VzOgvTuDsjEXBEwZ8M9uA3oWPAoqPCty7zcSxJ4tqp+HmQHpDU8N6mu89trXkzNHnw1aWT8hzKJU17Q5oKF5ZjE+5iW3AV+R4j6s2SHWjl2xUe9R9SEKoSnodk7+OMVwcNrjVbu8=</sign>
+    </credentials>
+</loginTicketResponse>
